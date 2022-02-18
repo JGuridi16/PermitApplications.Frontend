@@ -1,24 +1,24 @@
-# permit-applications
+# Pasos para correr ```permit-applications```
 
-## Project setup
+## Instalación de dependencias
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Abrir servidor local
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### Compilar app para produción
 ```
 yarn build
 ```
 
-### Lints and fixes files
+### Organizar archivos
 ```
 yarn lint
 ```
 
-### Customize configuration
+### Configuración personalizada
 See [Configuration Reference](https://cli.vuejs.org/config/).
